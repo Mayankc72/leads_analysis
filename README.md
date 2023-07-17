@@ -12,3 +12,7 @@
 | **Lead analysis (Data cleaning) IPYNB** | This file contains the ipynb code of the data cleaning part. |
 | **leads dashboard twbx**  | This file contains the Tableau worksheets and dashboard of the insights.   |
 <br>
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/108053296/189920716-560b819b-12ad-4f6e-95b4-f86cbb10e566.gif" width="400" ></p>
+##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
