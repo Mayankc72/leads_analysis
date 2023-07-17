@@ -50,8 +50,6 @@
          - Will join in the final year of college.
         the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are 
         having problems in affording the courses. 
-        
-            
                 
 | **City** | **English** | **Hindi** | **Telgu** | 
 | -------- | -------- | -------- | -------- |
@@ -61,6 +59,6 @@
 | Mumbai  |11| 1 | 7 |
 | Bengaluru |22| 3 | 7 |
 | Chennai  |17| 6 | 7 |
-<br>
+
     
     o       
