@@ -20,7 +20,8 @@
     
     o Explored the leads on the basis of gender out of overall leads 42.99% are male and around 57.01% are female.
     
-    o	Lead count BY cities 
+    o Lead count BY cities 
+    
          - Visakhapatnam  - 75
          - Hyderabad      - 73
          - Kochi          - 67
@@ -28,13 +29,27 @@
          - Bengaluru      - 51
          - Chennai        - 40
      
-    o	Studied the growth trends of count of countires over 75% electrification over the years .
+    o The total leads we got are based on different educational backgrounds. The majority of leads are the ones with Betch. 
+      background(37.58%) and the individuals who are looking for jobs (33.44%).
   
-    o	Analysed if there is any correlation between Income group of country  and their electrification across regions. 
+    o Parents of leads are from different occupations. top 3 occupations are given below :-
     
-    o	Comparison of access to electricity post 2000s in different countries.
+         - Government Employee    - 32.17%
+         - Business               - 24.52%
+         - IT Employee            - 20.06%
     
-    o	Presented a way to compare every country’s performance with respect to world average for every year
+    o The majority of leads are from the age group of 18-20 i.e. around 36.62%.
+    
+    o Out of all leads only around 30% have shown interest in companies' courses. rest of the leads have different reasons for not 
+      showing interest. Reasons for not showing interest are mentioned below.
+      
+         - Not interested in the domain
+         - Cannot afford.
+         - Lack of time.
+         - Wants offline classes.
+         - Will join in the final year of college.
+        the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are             having problems in affording the courses. 
+         
     o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
     
     o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
