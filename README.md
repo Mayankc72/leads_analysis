@@ -52,8 +52,9 @@
         having problems in affording the courses. 
         
             
-                | Language |
+                
 | **City** | **English** | **Hindi** | **Telgu** | 
+| -------- | -------- | -------- | -------- |
 | Visakhapatnam|22| 2 | 15 |
 | Hyderabad |20| 3 | 17 |
 | Kochi  |19| 4 | 8 |
