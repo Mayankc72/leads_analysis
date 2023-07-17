@@ -69,7 +69,10 @@
 
 
 
-   ## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+
+
+<p align="center"><a><img src="[https://user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png](https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224122.png)https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224122.png"</a></p>
 
 
 
