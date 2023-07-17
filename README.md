@@ -39,6 +39,16 @@
          - IT Employee            - 20.06%
     
     o The majority of leads are from the age group of 18-20 i.e. around 36.62%.
+    | **City** | **English** | **Hindi** | **Telgu** | 
+| -------- | -------- | -------- | -------- |
+| Visakhapatnam|22| 2 | 15 |
+| Hyderabad |20| 3 | 17 |
+| Kochi  |19| 4 | 8 |
+| Mumbai  |11| 1 | 7 |
+| Bengaluru |22| 3 | 7 |
+| Chennai  |17| 6 | 7 |
+
+    
     
     o Out of all leads only around 30% have shown interest in companies' courses. rest of the leads have different reasons for not 
       showing interest. Reasons for not showing interest are mentioned below.
@@ -51,14 +61,5 @@
         the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are 
         having problems in affording the courses. 
                 
-| **City** | **English** | **Hindi** | **Telgu** | 
-| -------- | -------- | -------- | -------- |
-| Visakhapatnam|22| 2 | 15 |
-| Hyderabad |20| 3 | 17 |
-| Kochi  |19| 4 | 8 |
-| Mumbai  |11| 1 | 7 |
-| Bengaluru |22| 3 | 7 |
-| Chennai  |17| 6 | 7 |
 
-    
     o       
