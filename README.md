@@ -19,8 +19,6 @@
 
     
     o Explored the leads on the basis of gender out of overall leads 42.99% are male and around 57.01% are female.
-    <p align="center"><a><img src="https://[user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png](https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224122.png)"</a></p>
-    	
     
     o Lead count BY cities 
     
@@ -52,14 +50,16 @@
          - Will join in the final year of college.
         the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are 
         having problems in affording the courses. 
-         
-   | City | Language |
-| ------------- | ------------- |
-| **Edtech csv** | This is the final csv file after the data cleaning. |
-| **Lead analysis (Data cleaning) IPYNB** | This file contains the ipynb code of the data cleaning part. |
-| **leads dashboard twbx**  | This file contains the Tableau worksheets and dashboard of the insights.   |
+        
+            
+                | Language |
+| **City** | **English** | **Hindi** | **Telgu** | 
+| Visakhapatnam|22| 2 | 15 |
+| Hyderabad |20| 3 | 17 |
+| Kochi  |19| 4 | 8 |
+| Mumbai  |11| 1 | 7 |
+| Bengaluru |22| 3 | 7 |
+| Chennai  |17| 6 | 7 |
 <br>
     
-    o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
-    
-    o       Illustrated a way to calculated the average the average of electricition of countries in different areas
+    o       
