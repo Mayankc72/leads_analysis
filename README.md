@@ -56,3 +56,14 @@
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
+    1. Started with reading the CSV files in Python.
+    
+    2. Did the data cleaning part with the help of pandas.
+    
+    3. Converted the clean data into a new CSV file.
+    
+    4. Exported file to Tableau and created required charts to gain some insights.
+    
+    5. Also Designed an interactive dashboard from the charts for better visualization.
+    
+
