@@ -15,3 +15,28 @@
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+
+
+    
+    o Explored the leads on the basis of gender out of overall leads 42.99% are male and around 57.01% are female.
+    
+    o	Lead count BY cities 
+         - Visakhapatnam  - 75
+         - Hyderabad      - 73
+         - Kochi          - 67
+         - Mumbai         - 48
+         - Bengaluru      - 51
+         - Chennai        - 40
+     
+    o	Studied the growth trends of count of countires over 75% electrification over the years .
+  
+    o	Analysed if there is any correlation between Income group of country  and their electrification across regions. 
+    
+    o	Comparison of access to electricity post 2000s in different countries.
+    
+    o	Presented a way to compare every country’s performance with respect to world average for every year
+    o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
+    
+    o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
+    
+    o       Illustrated a way to calculated the average the average of electricition of countries in different areas
