@@ -32,23 +32,13 @@
     o The total leads we got are based on different educational backgrounds. The majority of leads are the ones with Betch. 
       background(37.58%) and the individuals who are looking for jobs (33.44%).
   
-    o Parents of leads are from different occupations. top 3 occupations are given below :-
+    o Parents of leads are from different occupations. The top 3 occupations are given below:-
     
          - Government Employee    - 32.17%
          - Business               - 24.52%
          - IT Employee            - 20.06%
     
     o The majority of leads are from the age group of 18-20 i.e. around 36.62%.
-    | **City** | **English** | **Hindi** | **Telgu** | 
-| -------- | -------- | -------- | -------- |
-| Visakhapatnam|22| 2 | 15 |
-| Hyderabad |20| 3 | 17 |
-| Kochi  |19| 4 | 8 |
-| Mumbai  |11| 1 | 7 |
-| Bengaluru |22| 3 | 7 |
-| Chennai  |17| 6 | 7 |
-
-    
     
     o Out of all leads only around 30% have shown interest in companies' courses. rest of the leads have different reasons for not 
       showing interest. Reasons for not showing interest are mentioned below.
@@ -62,4 +52,7 @@
         having problems in affording the courses. 
                 
 
-    o       
+    o Social media marketing is one of the top sources from were the leads are generated.  
+
+## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
