@@ -19,6 +19,8 @@
 
     
     o Explored the leads on the basis of gender out of overall leads 42.99% are male and around 57.01% are female.
+    <p align="center"><a><img src="[https://user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png](https://github.com/Mayankc72/leads_analysis/blob/0…pet/Screenshot%202023-07-17%20224122.png)"</a></p> 
+    	
     
     o Lead count BY cities 
     
@@ -48,9 +50,15 @@
          - Lack of time.
          - Wants offline classes.
          - Will join in the final year of college.
-        the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are             having problems in affording the courses. 
+        the main reason why leads are not showing interest is that they are not able to afford the courses around 22.55% of leads are 
+        having problems in affording the courses. 
          
-    o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
+   | City | Language |
+| ------------- | ------------- |
+| **Edtech csv** | This is the final csv file after the data cleaning. |
+| **Lead analysis (Data cleaning) IPYNB** | This file contains the ipynb code of the data cleaning part. |
+| **leads dashboard twbx**  | This file contains the Tableau worksheets and dashboard of the insights.   |
+<br>
     
     o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
     
