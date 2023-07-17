@@ -65,7 +65,7 @@
         having problems in affording the courses. 
                 
 
-    o Social media marketing is one of the top sources from were the leads are generated. 
+    o Social media marketing is one of the top sources from where the leads are generated. 
 
 
 
@@ -75,6 +75,21 @@
 <p align="center"><a><img src = "https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224122.png"</a></p>
 <p align="center"><a><img src = 
 "https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224225.png"</a></p>
+<p align="center"><a><img src = 
+"https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224249.png"</a></p>
+<p align="center"><a><img src = "https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224603.png"</a></p>
+<p align="center"><a><img src = "https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224644.png"</a></p>
+<p align="center"><a><img src = "https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224718.png"</a></p>
+<p align="center"><a><img src = "https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224845.png"</a></p>
+
+City/language Distribution
+
+<p align="center"><a><img src = "https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224017.png"</a></p> 
+
+**DASHBOARD**
+<p align="center"><a><img src = 
+"https://github.com/Mayankc72/leads_analysis/blob/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20225057.png"</a></p>
+
 
 
 
