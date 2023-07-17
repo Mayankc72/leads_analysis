@@ -19,7 +19,7 @@
 
     
     o Explored the leads on the basis of gender out of overall leads 42.99% are male and around 57.01% are female.
-    <p align="center"><a><img src="[https://user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png](https://github.com/Mayankc72/leads_analysis/blob/0…pet/Screenshot%202023-07-17%20224122.png)"</a></p> 
+    <p align="center"><a><img src="https://[user-images.githubusercontent.com/108053296/189939488-7841129b-afbc-49f8-9ffc-2d3c8d1fb4d1.png](https://raw.githubusercontent.com/Mayankc72/leads_analysis/03d3648fa3ae7643c0964c4452e030dc6d29f370/Analysis%20snippet/Screenshot%202023-07-17%20224122.png)"</a></p>
     	
     
     o Lead count BY cities 
